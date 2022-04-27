@@ -1,0 +1,23 @@
+.sellBg {
+    width: 100%;
+    height: auto;
+    background-attachment: fixed;
+}
+
+.sell {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sell .sellTitle {
+    font-family: cursive;
+    font-size: 60px;
+}
+
+.sellTitle div {
+    align-items: center;
+}
